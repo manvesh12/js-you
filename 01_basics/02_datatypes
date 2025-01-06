@@ -1,0 +1,33 @@
+"use strict" 
+// stict keyword is used to treat all js code as newer version
+
+//alert("hello")
+//alert keyword is used to give a pop up 
+
+
+//have a good readable code 
+
+
+let name = "manvesh"
+let age = 18
+let isloggedIn = false 
+let state = null 
+
+//number has the range of => 2 to he power of 53
+//bigint 
+//string  => ""
+//boolean = true/false
+//null => standalone value  =>> means the data type is initialized and vall assigned is empty 
+//undefined => means the data type is intialized but the valueis not defined 
+//symbol = > used to define indiavula ness AND UNIQUENESS
+
+
+//object 
+
+//type of  command 
+console.log(typeof(age));
+
+console.log(typeof undefined); // =>undefined
+console.log(typeof null); // =>object 
+
+
